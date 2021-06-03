@@ -25,7 +25,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
     <WebView 
     style={{flex:1}}
-    source={{ uri: 'https://mangwaloo.com/' }} 
+    source={{ uri: 'https://gaana.com/' }} 
     javaScriptEnabled={true}
     //for cahse
     domStorageEnabled={true}
